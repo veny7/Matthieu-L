@@ -1,5 +1,4 @@
-# Matthieu-L
-This is my first python project and I'm glad to show what I did
+# Stochastic calculus:
 
 In this project, there are 4 mini projects : 
  1.Calculation of implied volatility of 20 assets
