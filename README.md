@@ -6,4 +6,4 @@ In this project, there are 4 mini projects :
  3.Binomial tree and Monte-Carlo (we calculate an option with trajectory dependence and without trajectory dependence)
  4.Brownian motion and convergence of the binomial model
 
-The project is in Alloc_actifs
+The project is in Alloc_actif
